@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cwong51799.mobiletrivia",
+    "sha256_cert_fingerprints":
+    ["D2:7D:14:FB:17:51:5C:EA:54:EF:CA:26:28:ED:3B:20:7F:BD:BB:DD:0B:38:D1:79:19:3D:2B:B1:31:1C:EA:21"]
+  }
+}]
